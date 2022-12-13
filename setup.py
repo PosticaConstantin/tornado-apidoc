@@ -18,7 +18,7 @@ setup(
     long_description=long_description,
     long_description_content_type='text/markdown',
     keywords=['tornado', 'apidoc', 'doc', 'documentation', 'rest', 'restful'],
-    install_requires=['tornado>=4.5.2'],
+    install_requires=['tornado==4.5.2'],
     classifiers=[
         'Development Status :: 5 - Production/Stable',
         'Intended Audience :: Developers',
